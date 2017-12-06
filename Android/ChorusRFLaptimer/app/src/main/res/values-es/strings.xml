@@ -23,7 +23,7 @@
     <string name="channel_descriptor">Canal: %1$s%2$s (%3$s)</string>
     <string name="calibrate_timers">Calibrando timers…</string>
     <string name="setup_lipo_monitor">LiPo Monitor</string>
-    <string name="setup_adjust_voltage">Adjuste Voltage</string>
+    <string name="setup_adjust_voltage">Ajuste Voltaje</string>
     <string name="setup_nr_laps">Numero de Vueltas</string>
     <string name="setup_min_lap_time">Tiempo Minimo Vuelta</string>
     <string name="setup_skip_first_lap">Saltar Primera Vuelta</string>
