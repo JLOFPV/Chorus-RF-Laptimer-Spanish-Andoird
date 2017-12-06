@@ -71,7 +71,7 @@
     <string name="connection_failed">No conectado</string>
     <string name="connected_to">Conectado a %s</string>
     <string name="disconnected">Desconectado</string>
-    <string name="setup_speak_english_only">Speak in English(Sin funcion)</string>
+    <string name="setup_speak_english_only">Speak in English</string>
 
     <plurals name="pilots_in_race">
         <item quantity="one">Inicio de Carrera (%1$d pilot)</item>
