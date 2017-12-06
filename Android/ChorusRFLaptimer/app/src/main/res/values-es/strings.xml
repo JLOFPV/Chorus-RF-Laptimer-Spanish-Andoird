@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ChorusRF Level-JLO Edition </string>
+    <string name="app_name">Chorus RF Laptimer</string>
 
     <!-- Menu -->
 `    <string name="menu_bt_connect">Conectar por BT</string>
